@@ -23,6 +23,6 @@ function App() {
     </Router>
   );
 }
-
+// (c) 2019 - Compassionate Advisors, LLC
 const rootElement = document.getElementById("root");
 ReactDOM.render(<App />, rootElement);
