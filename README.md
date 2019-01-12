@@ -1,2 +1,0 @@
-# PincannaConcept
-Created with CodeSandbox
